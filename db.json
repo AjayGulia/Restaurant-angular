@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "ajay",
+      "email": "ajay02@nagarro.com",
+      "mobile": "0987657654",
+      "address": "ajay2@nagarro.com",
+      "services": "naga"
+    },
+    {
+      "id": 3,
+      "name": "ajay",
+      "email": "ajay02@nagarro.com",
+      "mobile": "0987657654",
+      "address": "ajay2@nagarro.com",
+      "services": "nagarro"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Ajay",
+      "email": "ajay02@nagarro.com",
+      "mobile": "12345",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
